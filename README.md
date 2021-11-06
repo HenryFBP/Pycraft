@@ -7,26 +7,7 @@ Pycraft is an OpenGL, OpenWorld, Video Game made entirely with Python. This proj
 [![](https://img.shields.io/badge/python-3.10-blue.svg)](www.python.org/downloads/release/python-3100) [![](https://img.shields.io/badge/python-3.9-blue.svg)](www.python.org/downloads/release/python-390) [![](https://img.shields.io/badge/python-3.8-blue.svg)](www.python.org/downloads/release/python-380) [![](https://img.shields.io/badge/python-3.7-blue.svg)](www.python.org/downloads/release/python-370) <br />
 ![](https://img.shields.io/github/license/PycraftDeveloper/Pycraft) ![](https://img.shields.io/github/stars/PycraftDeveloper/Pycraft) ![](https://img.shields.io/github/forks/PycraftDeveloper/Pycraft) ![](https://img.shields.io/github/issues/PycraftDeveloper/Pycraft) ![GitHub commits since tagged version](https://img.shields.io/github/commits-since/PycraftDeveloper/Pycraft/Pycraft-v0.0) ![GitHub all releases](https://img.shields.io/github/downloads/PycraftDeveloper/Pycraft/total) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PycraftDeveloper/Pycraft)
 
-Progress towards Pycraft v0.9.2: ![Progress](https://progress-bar.dev/100)
-
-Added to this update (Pycraft v0.9.2) so far:
-| Feature/Bug Fix/Planned | Description |
-| :---: | :---: |
-| Feature | Reprogrammed 'Devmode' graph feature, now scales with screen better (but NOT completely on resize as yet), when switching between modes of full-screen and windowed |
-| Feature | Parallelized CPU data collection to create a more accurate graph in 'Devmode' |
-| Feature | Labelled text at the top of 'Devmode' and added more useful information |
-| Feature | Tweaked caption in 'Devmode' to now include some new features |
-| Feature | Fixed mouse movement in game to the centre of the display, and polished mouse detection effects |
-| Feature | Improved inventory backdrop snapshot with a blur effect |
-| Feature | Created a small sub-program that runs parallel to the main program, this checks all the variables that have the potential to hit the 32/64-bit integer limit |
-| Feature | Added better implementations of the 'Adaptive' setting mode, now this dynamically changes FPS to boost performance, detail and keeping system from running hot. This also takes data from the Benchmark mode function based on scores. (This is run in parallel) |
-| Bug Fix | Prevented the music in game from playing loud, and uncontrollably on start-up, and after certain menu interactions |
-| Bug Fix | Some internal clearing up after the big change that came with the last pre-release regarding the programming restructuring |
-| Bug Fix | Added and tweaked some internal values for the game and it's saves |
-| Bug Fix | Fixed an issue with the animation on the Home Screen changing speed with FPS changes |
-| Planned | Add in saves menu for game engine, incorporating the Inventory in game, with a new save and exit feature and a GUI when loading game |
-| Planned | Major performance improvements to the game engine |
-| Planned | Parallelization of the Collisions and Drawing algorithms |
+Pycraft v0.9.2 is here, we recommend you use the latest version of Pycraft for the newest features and better bug-fixes!
 
 ## About
 
